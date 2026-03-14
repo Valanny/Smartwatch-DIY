@@ -1,18 +1,18 @@
-Model,Units,Supplier
-RP2040,1,LXKW Store
-W25Q16JVUXIQ,1,LXKW Store
-12 Mhz Resonator,1,GVMRZ Store
-MAX30100,1,SZHAD Technology Store
-TP4056,1,CanHuiSheng Store
-DW01A,1,GOHJMY Electronics Store
-FS8205,1,Topchip Electronics
-Li-Po Battery 200mAh,1,Baterias Fuerte
-Coin DC Motor,1,Good IC Family
-DS3231MZ,1,JINYUXIN Global Store
-SKRTLAE010,4,TLZWLA Official Store
-OLED Screen,1,Steren
-USB-C 16 Pins female,1,Unit electronics
-SMD Resistor 0805,12,Aliexpress
-SMD Capacitor 0805,9,Aliexpress
-SMD LED 0805,2,Aliexpress
-SMD Transistor sot23,1,Aliexpress
+Model,Units,Supplier,Com
+RP2040,1,LXKW Store,N/A
+W25Q16JVUXIQ,1,LXKW Store,N/A
+12 Mhz Resonator,1,GVMRZ Store,N/A
+MAX30100,1,SZHAD Technology Store,N/A
+TP4056,1,CanHuiSheng Store,N/A
+DW01A,1,GOHJMY Electronics Store,N/A
+FS8205,1,Topchip Electronics,N/A
+Li-Po Battery 200mAh,1,Baterias Fuerte,N/A
+Coin DC Motor,1,Good IC Family,N/A
+DS3231MZ,1,JINYUXIN Global Store,N/A
+SKRTLAE010,4,TLZWLA Official Store,N/A
+OLED Screen,1,Steren, In Mexico
+USB-C 16 Pins female,1,Unit electronics,N/A
+SMD Resistor 0805,12,Aliexpress, The values wiil be attatch leter
+SMD Capacitor 0805,9,Aliexpress, The values wiil be attatch leter
+SMD LED 0805,2,Aliexpress, The values wiil be attatch leter
+SMD Transistor sot23,1,Aliexpress, The values wiil be attatch leter
