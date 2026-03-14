@@ -22,5 +22,5 @@ Desarrollar un sistema embebido simple del tipo "smartwatch" funcional que integ
 
 ---
 
-Saldaña Ramirez Anna Valentina - Hardware designer, technician, co-programmer
-Estrada Pulido Salvador - Programmer, co-technician
+* Saldaña Ramirez Anna Valentina - Hardware designer, technician, co-programmer
+* Estrada Pulido Salvador - Programmer, co-technician
