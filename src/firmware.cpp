@@ -1,5 +1,5 @@
 /*
-Version: 1.0.0
+Version: 1.0.1
 Autor: Estrada Pulido Salvador
 Fecha: 13/03/2026
 
@@ -12,6 +12,8 @@ El siguiente código, el cual meramente ejecuta varias funciones en base a un sw
 
 /* 
 MOD: Esta sección se usará para especificar las modificaciones que sufra el código.
+v1.0.1 
+* Se removio documentacion innecesaria
 */
 
 // Seccion Primera
