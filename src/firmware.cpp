@@ -10,17 +10,6 @@ El siguiente código, el cual meramente ejecuta varias funciones en base a un sw
 * enum - Aqui se clasifican los estados para el switch case que dicta el siguiente paso del codigo
 * void loop() - Aqui se ejeuctan en bucle las varias funciones previamente llamadas desde sus respectivos modulos
 
-Entrada:
-N (entero)
-
-Salida:
-Número de primos
-Suma de primos
-Primos pares
-Primos impares
-Tiempo de ejecución
-*/
-
 /* 
 MOD: Esta sección se usará para especificar las modificaciones que sufra el código.
 */
